@@ -1,0 +1,22 @@
+//
+//  ViewController.swift
+//  SignUpPage
+//
+//  Created by Jeeshan Ali on 29/06/17.
+//  Copyright © 2017 Jeeshan Ali. All rights reserved.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view, typically from a nib.
+    }
+    
+
+    
+}
+
