@@ -16,6 +16,8 @@
 		A32322971F050BCB00A87A3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A32322961F050BCB00A87A3D /* Assets.xcassets */; };
 		A323229A1F050BCB00A87A3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A32322981F050BCB00A87A3D /* LaunchScreen.storyboard */; };
 		A325DC4B1F0A1C870001DDF3 /* UserDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A325DC4A1F0A1C870001DDF3 /* UserDetailsViewController.swift */; };
+		A3CEF9421F0CEDBF00BF90AC /* Validation.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3CEF9411F0CEDBF00BF90AC /* Validation.swift */; };
+		A3CEF9461F0CF40F00BF90AC /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3CEF9451F0CF40F00BF90AC /* Alert.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		A32322991F050BCB00A87A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A323229B1F050BCB00A87A3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A325DC4A1F0A1C870001DDF3 /* UserDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDetailsViewController.swift; sourceTree = "<group>"; };
+		A3CEF9411F0CEDBF00BF90AC /* Validation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Validation.swift; sourceTree = "<group>"; };
+		A3CEF9451F0CF40F00BF90AC /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +72,9 @@
 				A325DC4A1F0A1C870001DDF3 /* UserDetailsViewController.swift */,
 				A31F19911F061D4700233AC8 /* LoginViewController.swift */,
 				A31F198F1F061D1C00233AC8 /* SignUpViewController.swift */,
+				A3CEF9411F0CEDBF00BF90AC /* Validation.swift */,
 				A31F19931F065B6300233AC8 /* UserDefaultKeys.swift */,
+				A3CEF9451F0CF40F00BF90AC /* Alert.swift */,
 				A32322961F050BCB00A87A3D /* Assets.xcassets */,
 				A32322981F050BCB00A87A3D /* LaunchScreen.storyboard */,
 				A323229B1F050BCB00A87A3D /* Info.plist */,
@@ -153,6 +159,8 @@
 				A31F19901F061D1C00233AC8 /* SignUpViewController.swift in Sources */,
 				A31F19921F061D4700233AC8 /* LoginViewController.swift in Sources */,
 				A32322901F050BCB00A87A3D /* AppDelegate.swift in Sources */,
+				A3CEF9461F0CF40F00BF90AC /* Alert.swift in Sources */,
+				A3CEF9421F0CEDBF00BF90AC /* Validation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
